@@ -1,4 +1,4 @@
-# 🔍 OSINT Portfolio
+# OSINT Portfolio
 
 ![OSINT](https://img.shields.io/badge/OSINT-Open_Source_Intelligence-blue)
 ![Status](https://img.shields.io/badge/Status-Active-success)
@@ -9,7 +9,7 @@ Welcome to my Open Source Intelligence (OSINT) portfolio. This repository showca
 
 ---
 
-## 📖 About OSINT
+## About OSINT
 
 **Open Source Intelligence (OSINT)** refers to the collection and analysis of information gathered from publicly available sources. In cybersecurity, OSINT is crucial for:
 
@@ -23,7 +23,7 @@ This portfolio demonstrates practical application of OSINT techniques in real-wo
 
 ---
 
-## 🎯 My Approach
+## My Approach
 
 ### Core Principles
 
@@ -49,7 +49,7 @@ graph LR
 
 ---
 
-## 🛠️ OSINT Toolkit
+## OSINT Toolkit
 
 ### Search & Discovery
 
@@ -115,7 +115,7 @@ graph LR
 
 ---
 
-## 📁 Challenges & Write-ups
+## Challenges & Write-ups
 
 ### Completed Investigations
 
@@ -125,7 +125,7 @@ graph LR
 
 ---
 
-## 🎓 Skills Demonstrated
+## Skills Demonstrated
 
 Through these challenges, I've demonstrated proficiency in:
 
@@ -155,7 +155,7 @@ Through these challenges, I've demonstrated proficiency in:
 
 ---
 
-## 📊 Statistics
+## Statistics
 
 ```
 Total Challenges Completed: 1
@@ -167,7 +167,7 @@ Hours of Investigation: 10+
 
 ---
 
-## 🎯 Learning Path
+## Learning Path
 
 ### Current Focus
 - Advanced DNS reconnaissance techniques
@@ -176,12 +176,12 @@ Hours of Investigation: 10+
 - Automated OSINT workflows
 
 ### Certifications & Training
-- 🎓 SecurityBlue Team - Introduction to OSINT ✅
-- 🎯 Next: Advanced OSINT certifications
+- SecurityBlue Team - Introduction to OSINT ✅
+- Next: Advanced OSINT certifications
 
 ---
 
-## 🤝 Contributing & Collaboration
+## Contributing & Collaboration
 
 I'm always interested in:
 - Collaborating on OSINT projects
@@ -193,7 +193,7 @@ Feel free to reach out for collaboration or discussions!
 
 ---
 
-## 📚 Recommended Resources
+## Recommended Resources
 
 ### Learning Platforms
 - [SecurityBlue Team](https://www.securityblue.team/) - OSINT Courses
@@ -206,9 +206,9 @@ Feel free to reach out for collaboration or discussions!
 - 📖 "Social Engineering: The Science of Human Hacking" by Christopher Hadnagy
 
 ### Communities
-- 🌐 [OSINT Curious](https://osintcurio.us/)
-- 🌐 [Bellingcat](https://www.bellingcat.com/)
-- 🌐 Reddit: r/OSINT
+- [OSINT Curious](https://osintcurio.us/)
+- [Bellingcat](https://www.bellingcat.com/)
+- Reddit: r/OSINT
 
 ### Blogs & Resources
 - [OSINT Framework](https://osintframework.com/)
@@ -220,17 +220,17 @@ Feel free to reach out for collaboration or discussions!
 ## ⚠️ Ethical Guidelines
 
 All investigations in this portfolio:
-- ✅ Were conducted in controlled, authorized environments
-- ✅ Followed all applicable laws and regulations
-- ✅ Respected privacy and ethical boundaries
-- ✅ Used only publicly available information
-- ✅ Were performed for educational purposes
+- Were conducted in controlled, authorized environments
+- Followed all applicable laws and regulations
+- Respected privacy and ethical boundaries
+- Used only publicly available information
+- Were performed for educational purposes
 
 **Disclaimer:** The scenarios and subjects in these challenges are fictional and created for educational purposes. Any resemblance to real persons or events is purely coincidental.
 
 ---
 
-## 🔐 Legal Notice
+## Legal Notice
 
 This repository is intended for:
 - Educational purposes
@@ -246,53 +246,24 @@ This repository is intended for:
 
 ---
 
-## 👤 About Me
+## About Me
 
 Security professional passionate about cybersecurity, threat intelligence, and digital investigations. Continuously expanding my OSINT capabilities through practical challenges and real-world applications.
 
-### Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](your-linkedin-url)
-[![Website](https://img.shields.io/badge/Website-Visit-green?style=for-the-badge&logo=google-chrome)](your-website-url)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](your-github-url)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](your-twitter-url)
-
 ---
 
-## 📫 Contact
-
-For professional inquiries, collaboration opportunities, or questions:
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [Your Profile](your-linkedin-url)
-
----
-
-## 📝 License
+## License
 
 This repository and its contents are shared under the MIT License for educational purposes.
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 Special thanks to:
 - **SecurityBlue Team** for excellent OSINT training
 - **OSINT Community** for sharing tools and techniques
 - **Open Source Projects** that make this work possible
-
----
-
-## 📈 Repository Stats
-
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/OSINT)
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/OSINT)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/OSINT?style=social)
-
----
-
-**⭐ If you find this portfolio useful, please consider giving it a star!**
-
-*This repository is actively maintained and regularly updated with new challenges and write-ups.*
 
 ---
 
