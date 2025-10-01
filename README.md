@@ -121,7 +121,7 @@ graph LR
 
 | # | Challenge Name | Platform | Difficulty | Status | Link |
 |---|---------------|----------|------------|--------|------|
-| 1 | **Redhunt Investigation** | SecurityBlue Team | Easy | ✅ Completed (10/10) | [View Write-up](.[OSINT Challenge - SecurityBlue/README.md]) |
+| 1 | **Redhunt Investigation** | SecurityBlue Team | Easy | ✅ Completed (10/10) | [View Write-up](./OSINT Challenge - SecurityBlue/README.md) |
 
 ---
 
