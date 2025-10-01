@@ -13,11 +13,11 @@ Welcome to my Open Source Intelligence (OSINT) portfolio. This repository showca
 
 **Open Source Intelligence (OSINT)** refers to the collection and analysis of information gathered from publicly available sources. In cybersecurity, OSINT is crucial for:
 
-- 🎯 Threat Intelligence & Actor Profiling
-- 🔐 Security Assessments & Penetration Testing
-- 🕵️ Digital Forensics & Incident Response
-- 🌐 Cyber Threat Hunting
-- 📊 Risk Assessment & Due Diligence
+- Threat Intelligence & Actor Profiling
+- Security Assessments & Penetration Testing
+- Digital Forensics & Incident Response
+- Cyber Threat Hunting
+- Risk Assessment & Due Diligence
 
 This portfolio demonstrates practical application of OSINT techniques in real-world scenarios through educational challenges and investigations.
 
@@ -121,7 +121,7 @@ graph LR
 
 | # | Challenge Name | Platform | Difficulty | Status | Link |
 |---|---------------|----------|------------|--------|------|
-| 1 | **Redhunt Investigation** | SecurityBlue Team | Easy | ✅ Completed (10/10) | [View Write-up](./OSINT Challenge - SecurityBlue/README.md) |
+| 1 | **Redhunt Investigation** | SecurityBlue Team | Easy | ✅ Completed (10/10) | [View Write-up](./redhunt-investigation/README.md) | 
 
 ---
 
