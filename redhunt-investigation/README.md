@@ -228,7 +228,7 @@ graph TD
 
 ---
 
-## 💡 Lessons Learned
+## Lessons Learned
 
 ### Technical Skills Enhanced
 - Advanced Google Dorking techniques
@@ -281,7 +281,7 @@ This write-up is shared for educational purposes to help others learn OSINT tech
 
 ---
 
-## 📝 License
+## License
 
 This write-up is shared under the MIT License for educational purposes.
 
