@@ -69,6 +69,9 @@ graph LR
 | **Social-Analyzer** | Social media profile finder | [GitHub](https://github.com/qeeqbox/social-analyzer) |
 | **Sherlock** | Username search across platforms | [GitHub](https://github.com/sherlock-project/sherlock) |
 | **Maltego** | Link analysis and data mining | [Maltego](https://www.maltego.com) |
+| **WhatsMyName** | Username enumeration across sites | [WhatsMyName](https://github.com/WebBreacher/WhatsMyName) |
+| **Namechk** | Username availability checker | [Namechk](https://namechk.com/)|
+| **Namecheckup** | Social media username search | [Namecheckup](https://namecheckup.com/)|
 
 ### Domain & Network Analysis
 
@@ -88,6 +91,8 @@ graph LR
 | **TinEye** | Reverse image search | [TinEye](https://tineye.com) |
 | **ExifTool** | Metadata extraction | [ExifTool](https://exiftool.org) |
 | **InVID** | Video verification | [InVID](https://www.invid-project.eu) |
+| **Yandex Images** | Powerful reverse image search | [Yandex Images](https://yandex.com/images) |
+| **Metadata2go** | Online metadata viewer/editor | [Metadata2go](https://www.metadata2go.com/) |
 
 ### Data Processing & Decoding
 
@@ -96,6 +101,7 @@ graph LR
 | **CyberChef** | Data transformation | [CyberChef](https://gchq.github.io/CyberChef/) |
 | **Base64 Decode** | Encoding/decoding | Various online tools |
 | **Papaparse** | CSV processing | [Papaparse](https://www.papaparse.com) |
+| **dCode.fr** | Cipher identifier and decoder | [dCode.fr](https://www.dcode.fr/en) |
 
 ### Frameworks & Aggregators
 
@@ -270,4 +276,4 @@ Special thanks to:
 
 ---
 
-*Last Updated: September 2025*
+*Last Updated: January 2026*
