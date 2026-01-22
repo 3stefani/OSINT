@@ -57,13 +57,12 @@ These OSINT techniques directly apply to:
 ![Trace Labs Badge Level 2](./badge-level2.png)
 ![Trace Labs Badge Level 3](./badge-level3.png)
 
-*(Sube tus capturas de badges aquí)*
 
 ## Certification
 
 **OSINT Educational Series**  
 **Platform**: Trace Labs via TryHackMe  
-**Completion**: Enero 2026  
+**Completion**: january 2026  
 **Levels**: 3/3 Complete
 
 ---
