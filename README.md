@@ -123,7 +123,7 @@ graph LR
 |---|---------------|----------|------------|--------|------|
 | 1 | **Redhunt Investigation** | SecurityBlue Team | Easy | ✅ Completed (10/10) | [View Write-up](./redhunt-investigation/README.md) | 
 | 2 | **Lespion Lab** | CyberDefenders | Easy |  ✅ Complete | [View](https://github.com/3stefani/Cyberdefenders-writeups/blob/main/Lespion/REAME.md) |
-| 3 | **OSINT Educational Series** | Trace Labs (TryHackMe) | Medium | 3/3 Badges | ✅ Complete | [View](./trace-labs/) |
+| 3 | **OSINT Educational Series** | Trace Labs (TryHackMe) | Medium | 3/3 Badges | ✅ Complete | [View](https://factory.cancred.ca/obv3/credentials/158b022eab62fb90f9915fb70b7ece83488e6d87.html) | Writeup - Soon |
 
 
 ---
